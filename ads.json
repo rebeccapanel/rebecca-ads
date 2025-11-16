@@ -1,0 +1,26 @@
+{
+  "default": {
+    "header": [
+      {
+        "id": "header-default-image",
+        "type": "image",
+        "image_url": "https://raw.githubusercontent.com/rebeccapanel/rebecca-ads/main/image.png",
+        "link": "https://github.com/rebeccapanel/rebecca-ads",
+        "metadata": {
+          "placement": "header"
+        }
+      }
+    ],
+    "sidebar": [
+      {
+        "id": "sidebar-default-image",
+        "type": "image",
+        "image_url": "https://raw.githubusercontent.com/rebeccapanel/rebecca-ads/main/image.png",
+        "link": "https://github.com/rebeccapanel/rebecca-ads",
+        "metadata": {
+          "placement": "sidebar"
+        }
+      }
+    ]
+  }
+}
