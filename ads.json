@@ -15,7 +15,7 @@
       {
         "id": "sidebar-default-image",
         "type": "image",
-        "image_url": "https://raw.githubusercontent.com/rebeccapanel/rebecca-ads/main/ads.png",
+        "image_url": "",
         "link": "https://github.com/rebeccapanel/rebecca-ads",
         "metadata": {
           "placement": "sidebar"
